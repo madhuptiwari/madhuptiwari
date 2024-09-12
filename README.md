@@ -32,7 +32,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuptiwari&theme=dark&layout=compact" alt="Madhup Tiwari's GitHub top languages" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuptiwari&theme=dark&hide_border=true&card_width=750" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuptiwari&theme=dark&hide_border=true&card_width=820" alt="GitHub Streak" />
 </a>
 <br/>
 
