@@ -28,8 +28,11 @@
 </div> 
 
 <a href="https://github.com/madhuptiwari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhuptiwari&show_icons=true&theme=graywhite&count_private=true" alt="Madhup Tiwari's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuptiwari&theme=graywhite&layout=compact" alt="Madhup Tiwari's GitHub top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhuptiwari&show_icons=true&theme=dark&count_private=true" alt="Madhup Tiwari's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuptiwari&theme=dark&layout=compact" alt="Madhup Tiwari's GitHub top languages" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuptiwari&theme=dark&hide_border=true" alt="GitHub Streak" />
 </a>
 <br/>
 
