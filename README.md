@@ -5,7 +5,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=madhuptiwari&style=flat-square&color=blue" alt=""/>
 
-- 🔭 I'm currently working on Freelance Projects through clients on Upwork
+- 🔭 I'm currently working on Freelance Projects through clients on Upwork and Outlier
 - :fire: I have worked with MNC's having 5 years of experience
 - 🌱 I’m currently learning ML/AI
 - 👯 I’m looking to collaborate on enterprise based applications
